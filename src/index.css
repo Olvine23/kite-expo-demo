@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    /* font-family:'Times New Roman'; */
+    font-family: 'Open Sans', sans-serif;
+}
+/* .header{
+    font-family:'Times New Roman';
+} */
